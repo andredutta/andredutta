@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [Tableau 2018 SEC Receiving Statistics Dashboard](https://public.tableau.com/app/profile/andre5440/viz/ReceivingDashboard_16859864796140/TeamDashboard)
 
+[Daily Calorie Intake Analysis](Daily Calorie Intake Analysis.pdf)
